@@ -1,0 +1,15 @@
+{
+  "name": "wilders",
+  "version": "1.0.0",
+  "description": "\"This is more practice with node servers\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "\"echo \"Sample\" && node index.js\""
+  },
+  "author": "Ashley Mikkola",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
